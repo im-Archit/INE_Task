@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e118d4dc.css",
+    "main.js": "/static/js/main.86dafac8.js",
+    "static/media/food.gif": "/static/media/food.d1452cc182773b17ab6f.gif",
+    "static/media/Pizza.png": "/static/media/Pizza.f342a27f1b981c055965.png",
+    "static/media/ButterChicken.png": "/static/media/ButterChicken.26235f39be41607aef70.png",
+    "static/media/Noodles.png": "/static/media/Noodles.7311af9bd966cc73f41d.png",
+    "static/media/Manchurian.jpg": "/static/media/Manchurian.01d4d3979ae6967a51bb.jpg",
+    "static/media/Crossaint.jpg": "/static/media/Crossaint.3870f63966dfbbd87574.jpg",
+    "static/media/LOGOO.png": "/static/media/LOGOO.ec0f0c518a8e8b02040e.png",
+    "static/media/offerImg.jpg": "/static/media/offerImg.795b296845a8a6cb6dea.jpg",
+    "static/media/PastaImage.jfif": "/static/media/PastaImage.31c763ac0c6004f7286a.jfif",
+    "static/media/user.png": "/static/media/user.2342963bf87fc59fec11.png",
+    "static/media/discount.svg": "/static/media/discount.19130c3a409fdae5292e76ebf31b785b.svg",
+    "static/media/help.svg": "/static/media/help.daae619afa17055630079af056141504.svg",
+    "index.html": "/index.html",
+    "static/media/search.svg": "/static/media/search.9e46e05609671b04c6e835901da150f2.svg",
+    "static/media/arrow.svg": "/static/media/arrow.b7ba972ed3a5d689118d2b740cac7ac1.svg",
+    "main.e118d4dc.css.map": "/static/css/main.e118d4dc.css.map",
+    "main.86dafac8.js.map": "/static/js/main.86dafac8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e118d4dc.css",
+    "static/js/main.86dafac8.js"
+  ]
+}
